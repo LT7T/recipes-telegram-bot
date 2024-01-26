@@ -26,7 +26,7 @@ python3.7 train_and_populate_recommendation_db.py
 
 **If you do have Docker**, you can easily pull the following image:
 ```sh
-docker pull tylerdurden1291/telegram-bot-recipes:mainimage
+docker pull LT7T/telegram-bot-recipes:mainimage
 ```
 
 ## Preparation
@@ -55,5 +55,5 @@ python3.7 app.py <your_token>
 **If you do have docker**
 
 ```sh
-docker run -e token=<your_token> tylerdurden1291/telegram-bot-recipes:mainimage
+docker run -e token=<your_token> LT7T/telegram-bot-recipes:mainimage
 ```
